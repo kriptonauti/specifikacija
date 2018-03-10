@@ -3,8 +3,10 @@
 Ovaj projekat se bavi izradom digitalnog sadržaja, od strane kriptonauta, pod
 [CC-BY-4.0-SA](https://creativecommons.org/licenses/by-sa/4.0/) licencom
 
-| Pridružen | Članovi |
-|:---------:|:-------:|
+## Članovi
+
+| Pridružen | 3ID |
+|:---------:|:---:|
 | 2018-03-10 | [ion](https://github.com/o100ja)
 | 2018-03-10 | [pax](https://github.com/pavle-batuta)
 | 2018-03-10 | [che](https://github.com/carce)

@@ -1,8 +1,18 @@
+<!-- TODO: Logo, Logotype, Brand -->
+
 # Kriptonauti
 
-<!-- TODO: Specifikacija grupe -->
+Kriptonauti su svi oni koji plove po [noosferi](https://en.wikipedia.org/wiki/Noosphere)
+koristeći [kriptologiju](https://www.wordnik.com/words/cryptology) kao splovilo u tom informacionom moru,
+što objašnjava ujedno i samo ime, koje aludira na drevni mit o [Argonautima](https://en.wikipedia.org/wiki/Argonauts)
 
-<!-- TODO: Objava dogovora od jutros -->
+## Projekti
+
+- **IRE**: [Internet radio emisija](projekti/IRE/README.md) (podcast)
+
+## Radionice
+
+- **KKS** [Izrada kućnog-kripto-sefa](radionice/KKS/README.md) (home-crypto-valut)
 
 # Osnivači
 

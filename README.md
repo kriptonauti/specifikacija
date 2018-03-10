@@ -8,11 +8,11 @@ koristeći [kriptologiju](https://www.wordnik.com/words/cryptology) kao splovilo
 
 ## Projekti
 
-- **IRE**: [Internet radio emisija](projekti/IRE/README.md) (podcast)
+- **KDS**: Izrada [kriptonautskog-digitalnog-sadržaja](projekti/KDS/README.md) (podcast)
 
 ## Radionice
 
-- **KKS** [Izrada kućnog-kripto-sefa](radionice/KKS/README.md) (home-crypto-valut)
+- **KKS** Izrada [kućnog-kripto-sefa](radionice/KKS/README.md) (home-crypto-valut)
 
 # Osnivači
 

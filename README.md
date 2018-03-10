@@ -8,6 +8,6 @@
 
 | 3ID | Ime | Email |
 | --- | --- | ----- |
-| ion | [Aleksandar Ostojić](@o100ja) | aleksandar.ostojic@omdnbni.com |
-| pax | [Pavle Batuta](@pavle-batuta) | TODO@pax: Fill it in           |
-| che | [Čedomir Rackov](@carce)      | TODO@che: Fill it in           |
+| ion | [Aleksandar Ostojić](o100ja) | aleksandar.ostojic@omdnbni.com |
+| pax | [Pavle Batuta](https://github.com/pavle-batuta) | TODO@pax: Fill it in           |
+| che | [Čedomir Rackov](carce)      | TODO@che: Fill it in           |

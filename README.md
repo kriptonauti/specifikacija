@@ -12,4 +12,4 @@
 | pax | [Pavle Batuta](https://github.com/pavle-batuta) | TODO@pax: Fill it in           |
 | che | [Čedomir Rackov](https://github.com/carce)      | TODO@che: Fill it in           |
 
-# [TODO](TODO.md#task-list)
+# [Tabela zadataka](TODO.md#task-list)

@@ -20,7 +20,7 @@ The tasks can be in the following states.
 | State | Description |
 |:-----:|:----------- |
 | *pending*    | The **task** is pending to start.
-| `evolving`   | The **task** is being worked on.
+| EVOLVING   | The **task** is being worked on.
 | stalled      | The **task** has been started but has been stalled.
 | ~~canceled~~ | The **task** has been started but was canceled and will not be worked on until further notice.
 | **resolved** | The **task** has been completed.
@@ -63,12 +63,12 @@ The task deadline is an *optional* field stating the deadline for resolving the 
 | *pending* | **20** | _bil |            | @bil has accepted to manage *this* task w/o a deadline.
 | *pending* | **20** | !dag | 2018-03-11 | @dag has taken controll over *this* task with a deadline.
 | *pending* | **10** | _che | 2018-03-10 | @che has accepted to manage *this* task.
-|```evolving```| **10** | _bil | 2018-03-01 | @bil is working on this task and is on time.
-|```evolving```| **10** | _bil | 2018-03-01 | @bil is working on this task and is on time.
-| *`evolving`* | **10** | _che | *2018-03-02* | @che is working on this task and is expecting to miss the deadline by a little bit.
+| EVOLVING | **10** | _bil | 2018-03-01 | @bil is working on this task and is on time.
+| EVOLVING | **10** | _bil | 2018-03-01 | @bil is working on this task and is on time.
+| EVOLVING | **10** | _che | *2018-03-02* | @che is working on this task and is expecting to miss the deadline by a little bit.
 | stalled | **20** | _eve | 2018-03-01 | @eve has stalled on this task but is expecting to meet the deadline.
-| *`evolving`* | **20** | _ana | **2018-03-01** | @ana is working on this task but is expecting to totaly miss the deadline.
-| *`evolving`* | **20** | _eve |            | @eve is working on this task w/o a deadline.
+| EVOLVING | **20** | _ana | **2018-03-01** | @ana is working on this task but is expecting to totaly miss the deadline.
+| EVOLVING | **20** | _eve |            | @eve is working on this task w/o a deadline.
 | stalled | **30** | _dag | 2018-03-03 | @dag has stalled on this task.
 | **resolved** | **10** | _bil | 2018-01-10 | @bil has resolved the task
 | ~~canceled~~ | **20** | _ana | ~~2018-01-11~~ | @ana has been working on this task, the deadline was missed, and it was canceled.

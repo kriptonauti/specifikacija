@@ -35,7 +35,7 @@ The task priorities are standard integer based priority ranks where the priority
 
 ## Task assignees
 
-The assignees can be found in the [README.md](README.md#osnivači)
+The assignees can be found in the [README.md](../README.md#osnivači)
 
 | 3ID prefix | Description |
 |:----------:|:----------- |

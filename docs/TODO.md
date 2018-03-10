@@ -29,6 +29,7 @@ The tasks can be in the following states.
 
 The task priorities are standard integer based priority ranks where the priority is the inverse of the rank.
 
+----
 > The lower the priority is, the higher the priority is.
 
 ----

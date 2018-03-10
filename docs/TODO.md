@@ -31,7 +31,10 @@ The task priorities are standard integer based priority ranks where the priority
 
 > The lower the priority is, the higher the priority is.
 
+----
 > Only **resolved** OR ~~canceled~~ **tasks** can have a priority of ***zero***
+
+----
 
 ## Task assignees
 

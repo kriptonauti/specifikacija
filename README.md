@@ -1,0 +1,2 @@
+# specifikacija
+Specifikacija grupe

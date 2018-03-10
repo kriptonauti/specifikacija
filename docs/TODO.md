@@ -20,7 +20,7 @@ The tasks can be in the following states.
 | State | Description |
 |:-----:|:----------- |
 | *pending*    | The **task** is pending to start.
-| EVOLVING   | The **task** is being worked on.
+| EVOLVING     | The **task** is being worked on.
 | stalled      | The **task** has been started but has been stalled.
 | ~~canceled~~ | The **task** has been started but was canceled and will not be worked on until further notice.
 | **resolved** | The **task** has been completed.

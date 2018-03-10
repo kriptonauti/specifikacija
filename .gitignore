@@ -180,6 +180,7 @@ cwallet.sso.lck### JetBrains template
 .idea/**/tasks.xml
 .idea/dictionaries
 .idea/codeStyles/
+.idea/inspectionProfiles/
 .idea/vcs.xml
 .idea/modules.xml
 *.iml

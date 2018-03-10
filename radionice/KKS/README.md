@@ -44,9 +44,6 @@ Tokom trajanja radionice moguće je voditi više grupa u zavisnosti od
 - odnosa broja članova i mogućnosti prostorija
 - odnosa broja članova i broja mentora
 
-Inicijalnim radionicama moraju prisustvovati k
-
-
 ## Mentori Radionica
 
 Kriptonauti koji se prijave da budu mentori radionica, imaju zaduženje

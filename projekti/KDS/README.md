@@ -17,6 +17,6 @@ Ovaj projekat se bavi izradom digitalnog sadržaja, od strane kriptonauta, pod
 
 ## Arhiva KDS-a
 
-Svaki **KDS** se arhivira u poseban repo. <!-- TODO: Instert link here -->
+Svaki **KDS** se arhivira u poseban repo. <!-- TODO: Insert link here -->
 
 Za detalje Videti opis u README.md-u samog repo-a.

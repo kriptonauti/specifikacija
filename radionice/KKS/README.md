@@ -1,24 +1,32 @@
 # Kućni Kripto Sef
 
 Ove radionice se bave sklapanjem hardware-skih jedinica koje kriptonauti
-koriste u svom svakodnevnom životu, zvanih --Kućni-Kripto-Sefovi**.
+koriste u svom svakodnevnom životu, zvanih **Kućni-Kripto-Sefovi**.
 
 Te hardware-ske jedinice su kombinacija **dostupnih** tehnologija koje
 kombinujemo da bi dobili određene funkcionalnosti i servise, poput:
 
-- Kućni NAS (sa RAID-om 1|1+0|N+N)
-- Uspostavljanje VPN mreže
-- Kućni Cluster (sa Dockerizacijom)
+- KKS funkcionalnosti
+  - Kućni NAS (sa RAID-om 1|1+0|N+N)
+    - FreeNAS + KODI
+  - Kućni VPN
+    - Dizanje svopstvenog VPN-a servera
+    - Priključivnje postojećim VPN-ovima
+  - Kućni App Cloud
+    - Docker Swarm na Raspberry Pi cluster-u
+  - Sve gore navedeno je zaštićeno DMZ-om
 - Priključivanje postojećim decentralizovanim mrežama:
-  - za razmenu podataka i medija
-    - IPFS
-    - DTube
-    - BitChute
+  - Uspostavljanje DNSChain-a
+    - https://okturtles.org
+  - Razmenu podataka
+    - [IPFS](https://ipfs.io)
+    - [DTube](https://about.d.tube/)
+    - [WebTorrent](https://webtorrent.io)
   - Kripto-valute
-      - BTC
-      - ETH
-      - LTC
-      - NANO
+    - BTC
+    - ETH
+    - LTC
+    - NANO
   - Blockchain 2nd layer
     - Lightning Network
     - Rootstock <!-- TODO: Нот суре абоут тхис оне -->

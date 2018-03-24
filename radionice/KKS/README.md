@@ -7,7 +7,7 @@ Te hardware-ske jedinice su kombinacija **dostupnih** tehnologija koje
 kombinujemo da bi dobili određene funkcionalnosti i servise, poput:
 
 - KKS funkcionalnosti
-  - Kućni NAS (sa RAID-om 1|1+0|N+N)
+  - Kućni NAS (sa RAID-om 1 + LVM)
     - FreeNAS + KODI
   - Kućni VPN
     - Dizanje svopstvenog VPN-a servera
